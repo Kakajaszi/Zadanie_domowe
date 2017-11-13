@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+<listEntry value="/Zadanie_2_przecinek/src/Od_0_do_n_po_przecinku.java"/>
+</listAttribute>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+<listEntry value="1"/>
+</listAttribute>
+<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="Od_0_do_n_po_przecinku"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="Zadanie_2_przecinek"/>
+</launchConfiguration>
